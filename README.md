@@ -1,6 +1,7 @@
 # PE-DBO
 
-The code for the paper "High-Dimensional Dueling Optimization with Preference Embedding".
+The code for the paper "High-Dimensional Dueling Optimization with Preference Embedding", published in AAAI 2023. The 
+appendix of this paper is attached to the `main.pdf` in the main folder.
 
 ## Requirements
 
@@ -144,6 +145,7 @@ the experimental results in the paper can be reproduced.
 ├── BO-cost.py
 ├── REBO-cost.py
 └── README.md
+└── mian.pdf
 ```
 
 Notes for the file tree:
@@ -153,3 +155,16 @@ comparison algorithms.
 which will be called directly from the various algorithms in the main folder.
 - The files in the folder `MSLR` and `ChEMBL` are used in 
 experiments on real datasets
+
+## Reference
+Zhang, Y.; Qian, H.; Shu, X.; and Zhou, A. "High-Dimensional Dueling Optimization with Preference Embedding." In Proceedings of 
+the 37th AAAI Conference on Artificial Intelligence, 2023.
+### Bibtex
+```shell
+@inproceedings{zhang2023preferenceem,
+ author = {Zhang, Yangwenhui and Qian, Hong and Shu, Xiang and Zhou, Aimin},
+ booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
+ title = {High-Dimensional Dueling Optimization with Preference Embedding},
+ year = {2023}
+}
+```
