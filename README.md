@@ -145,7 +145,7 @@ the experimental results in the paper can be reproduced.
 ├── BO-cost.py
 ├── REBO-cost.py
 └── README.md
-└── mian.pdf
+└── main.pdf
 ```
 
 Notes for the file tree:
