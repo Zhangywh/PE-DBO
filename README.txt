@@ -1,7 +1,9 @@
-The code for the paper "High-Dimensional Dueling Optimization with Preference Embedding".
+The code for the paper "High-Dimensional Dueling Optimization with Preference Embedding", 
+published in AAAI 2023. The appendix of this paper is attached to the main.pdf in the main folder.
 
 
-1. Requirements:
+1. Requirements
+
 conda 4.10.3
 Python 3.9.0
 bayesian-optimization 1.2.0
@@ -14,6 +16,7 @@ pandas 1.3.4
 2. The Testing Functions and Datasets
 
 2.1 Official Links
+
 - [Testing Functions](http://www.sfu.ca/~ssurjano/optimization.html)
 - [MSLR Dataset](https://www.microsoft.com/en-us/research/project/mslr/)
 - [ChEMBL Dataset](https://www.ebi.ac.uk/chembl/)
@@ -122,6 +125,7 @@ the experimental results in the paper can be reproduced.
 ├── BO-cost.py
 ├── REBO-cost.py
 └── README.md
+└── main.pdf
 
 
 Notes for the file tree:
@@ -132,3 +136,17 @@ The files in the folder core are the core components of the algorithms, which wi
 from the various algorithms in the main folder.
 
 The files in the folder MSLR and ChEMBL are used in experiments on real datasets
+
+
+5. Reference
+
+Zhang, Y.; Qian, H.; Shu, X.; and Zhou, A. "High-Dimensional Dueling Optimization with Preference 
+Embedding." In Proceedings of the 37th AAAI Conference on Artificial Intelligence, 2023.
+
+5.1 Bibtex
+@inproceedings{zhang2023preferenceem,
+ author = {Zhang, Yangwenhui and Qian, Hong and Shu, Xiang and Zhou, Aimin},
+ booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
+ title = {High-Dimensional Dueling Optimization with Preference Embedding},
+ year = {2023}
+}
