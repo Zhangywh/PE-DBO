@@ -1,7 +1,7 @@
 # PE-DBO
 
 The code for the paper "High-Dimensional Dueling Optimization with Preference Embedding", published in AAAI 2023. The 
-appendix of this paper is attached to the `main.pdf` in the main folder.
+main paper and the appendix are in the `main.pdf` which is contained in the main folder.
 
 ## Requirements
 
