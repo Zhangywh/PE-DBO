@@ -1,5 +1,5 @@
-The code for the paper "High-Dimensional Dueling Optimization with Preference Embedding", published in AAAI 2023. 
-The main paper and the appendix are in the main.pdf which is contained in the main folder.
+The code for the paper "High-Dimensional Dueling Optimization with Preference Embedding" published in AAAI 2023.
+The main paper and the appendix are in the main.pdf and appendix.pdf respectively, which are contained in the main folder.
 
 
 1. Requirements
@@ -126,6 +126,7 @@ the experimental results in the paper can be reproduced.
 ├── REBO-cost.py
 └── README.md
 └── main.pdf
+└── appendix.pdf
 
 
 Notes for the file tree:
