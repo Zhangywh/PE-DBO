@@ -160,13 +160,13 @@ which will be called directly from the various algorithms in the main folder.
 experiments on real datasets
 
 ## Reference
-Zhang, Y.; Qian, H.; Shu, X.; and Zhou, A. "High-Dimensional Dueling Optimization with Preference Embedding." In Proceedings of 
-the 37th AAAI Conference on Artificial Intelligence, 2023.
+Zhang, Y.; Qian, H.; Shu, X.; and Zhou, A. "High-Dimensional Dueling Optimization with Preference Embedding." In Proceedings of
+the 37th AAAI Conference on Artificial Intelligence (AAAI), 2023.
 ### Bibtex
 ```shell
 @inproceedings{zhang2023preferenceem,
  author = {Zhang, Yangwenhui and Qian, Hong and Shu, Xiang and Zhou, Aimin},
- booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
+ booktitle = {Proceedings of the 37th AAAI Conference on Artificial Intelligence},
  title = {High-Dimensional Dueling Optimization with Preference Embedding},
  year = {2023}
 }
